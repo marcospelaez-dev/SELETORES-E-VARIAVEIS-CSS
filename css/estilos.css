@@ -1,6 +1,7 @@
 @import url('./header.css');
 @import url('./destaque.css');
 @import url('./servicos.css');
+@import url('./planos.css');
 
 :root {
     /* Cores */
