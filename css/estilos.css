@@ -78,8 +78,12 @@ body {
     height: 100%;
     box-sizing: border-box;
     background-color: #ffffff;
+}
 
-    .container {
-        width: 1200px;
+.container {
+    width: 1200px;
+
+    @media (max-width: 768px) {
+        width: 648px;
     }
 }
